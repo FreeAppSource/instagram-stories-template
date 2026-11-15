@@ -1,0 +1,46 @@
+{
+ "app": "Instagram Stories Template",
+ "start": "instagram-learn-more-16-9",
+ "screens": [
+  {
+   "slug": "instagram-send-message-16-9",
+   "name": "Instagram Send message 16:9",
+   "page": "Instagram story",
+   "w": 1080,
+   "h": 1920,
+   "elements": 11,
+   "links": 2
+  },
+  {
+   "slug": "instagram-learn-more-16-9",
+   "name": "Instagram Learn more 16:9",
+   "page": "Instagram story",
+   "w": 1080,
+   "h": 1920,
+   "elements": 9,
+   "links": 1
+  },
+  {
+   "slug": "instagram-story-16-9",
+   "name": "Instagram Story 16:9",
+   "page": "Instagram story",
+   "w": 1080,
+   "h": 1920,
+   "elements": 13,
+   "links": 2
+  },
+  {
+   "slug": "instagram-profile-iphone-xs",
+   "name": "Instagram Profile (iPhone XS)",
+   "page": "Instagram story",
+   "w": 375,
+   "h": 812,
+   "elements": 41,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
